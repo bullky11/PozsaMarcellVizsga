@@ -1,0 +1,51 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "szótar apik",
+    "dateExported": "2024-05-21T12:43:45.958Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "fa4d4959-7fea-48a0-b7db-08bde0889c76",
+            "colId": "5404d1f7-83cc-4d6a-9d78-ffd6676ca12c",
+            "containerId": "",
+            "name": "témák",
+            "url": "http://localhost:8000/api/tema",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2024-05-21T12:37:24.640Z",
+            "modified": "2024-05-21T12:38:32.207Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "3130149e-fa3e-40e6-a879-6c5010742c58",
+            "colId": "5404d1f7-83cc-4d6a-9d78-ffd6676ca12c",
+            "containerId": "",
+            "name": "szavak",
+            "url": "http://localhost:8000/api/szavak",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-05-21T12:38:43.111Z",
+            "modified": "2024-05-21T12:39:26.863Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "79492c57-ebf7-4cf3-ba10-b1365251d2a1",
+            "colId": "5404d1f7-83cc-4d6a-9d78-ffd6676ca12c",
+            "containerId": "",
+            "name": "szavak/tema",
+            "url": "http://localhost:8000/api/szavak/tema",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-05-21T12:39:59.319Z",
+            "modified": "2024-05-21T12:40:04.218Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
